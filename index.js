@@ -12,6 +12,6 @@
 const { extractClassMemberId } = require('./extractId');
 
 (async () => {
-  const id = await extractClassMemberId('pdf.png');
+  const id = await extractClassMemberId('claim_form.pdf');
   console.log('Extracted ID:', id);
 })();
