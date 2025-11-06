@@ -9,3 +9,9 @@
 //     await browser.close();
 // })();
 
+const { extractClassMemberId } = require('./extractId');
+
+(async () => {
+  const id = await extractClassMemberId('pdf.png');
+  console.log('Extracted ID:', id);
+})();
