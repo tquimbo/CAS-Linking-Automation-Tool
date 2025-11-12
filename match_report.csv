@@ -1,0 +1,64 @@
+PDF_Item,BestExcelRow,Excel_Item,Score,SecondBestScore,Action,Qty,Rate
+Develop Class List and Import (assumes one data file),15.0,Case Setup: Develop class list and import (per record),88.88888888888889,81.63265306122449,write,1,2000.0
+"Set Up, Format and Proof the Notice & Claim Form",,,,,skipped(empty-key),6,150.0
+Generate Email Address List,,,,,skipped(empty-key),1,500.0
+Email List Cleanse and Hygiene,,,,,skipped(empty-key),1,2250.0
+Prepare & Release Email Campaign,,,,,skipped(empty-key),1,0.005
+Estimated # of Failed Emails,65.0,Media Campaign: Media/online advertising,45.0,41.86046511627907,low-score,1,0.005
+Print/Address Notice Packet [Standard Postcard (Single)],20.0,Notification/Correspondence Fees: Print/address notice packet (per notice),100.0,100.0,ambiguous,1,0.05
+Process Returned Notices,,,,,skipped(empty-key),9,0.15
+Advanced Address Search,,,,,skipped(empty-key),9,0.15
+Re-Mail Notices,,,,,skipped(empty-key),5,0.25
+Generate Supplemental List of Applicable Email Addresses,45.0,Notification/Correspondence Fees: Generate supplemental list of email addresses (one time fee),100.0,44.44444444444444,write,1,450.0
+Prepare & Release Reminder Email Campaign,,,,,skipped(empty-key),6,0.005
+Receive and Respond to Requests for Notice,31.0,Notification/Correspondence Fees: Receive and respond to notice requests (per notice),100.0,55.38461538461539,write,3,2.0
+Form Letter Correspondence,32.0,Notification/Correspondence Fees: Form letter correspondence (per letter),100.0,100.0,ambiguous,5,5.0
+Email Correspondence,17.0,Notification/Correspondence Fees: Submit file for NCOA (one time fee),100.0,100.0,ambiguous,1,2.5
+Processing Change of Address Requests,34.0,Notification/Correspondence Fees: Processing change of address requests (per request),100.0,55.55555555555556,write,4,2.0
+Set-Up Fee for Dedicated Website - Online Filing Capability,54.0,Website: Website setup (one time fee),100.0,51.42857142857143,write,1,3500.0
+Monthly Hosting,55.0,Website: Monthly hosting (per month),100.0,63.63636363636363,write,9,125.0
+Modifications to Post-Production Website,137.0,Website - Modifications to post-production website,100.0,77.77777777777777,write,5,150.0
+IVR Design & Setup,57.0,Contact Center: Call center IVR design and setup (one time fee),100.0,46.15384615384615,write,1,1000.0
+IVR Operating System (per minute),58.0,Contact Center: IVR operating system (per minute),100.0,85.1063829787234,write,1,0.15
+Live Telephone Support,76.0,Process Claim Forms Deficiencies and Rejections: Claims filed via telephone (per form),58.064516129032256,41.37931034482759,low-score,5,500.0
+Live Operator Minutes,61.0,Contact Center: Live operator minutes (per minute),100.0,100.0,ambiguous,9,0.95
+Review & Process Opt-Out Forms Received,144.0,Process Opt-outs and Objections - Review and process opt-out forms received/Logging,100.0,79.16666666666667,write,3,75.0
+Online Forms,67.0,Process Claim Forms Deficiencies and Rejections: Online Registrations (per form),100.0,100.0,ambiguous,2,0.27
+Paper / Hard Copy Forms,75.0,Process Claim Forms Deficiencies and Rejections: Paper claims data entered (per form),68.75,68.75,low-score,2,2.95
+Send Form Deficiency & Rejection Letters,93.0,Process Claim Forms Deficiencies and Rejections: Send form deficiency & rejection letters (per letter),100.0,76.92307692307692,write,1,3.0
+Claimant Responses to Deficient Claim Form,96.0,Process Claim Forms Deficiencies and Rejections: Claimant responses to deficient claim form (per response),100.0,78.26086956521739,write,6,3.0
+Review of Claims Filed - Blended Rate,151.0,Dispute Resolutions/Validation of Claims - Review of claims filed,74.50980392156863,57.77777777777778,low-score,1,100.0
+Top Claim Review (Sr. Project Manager),165.0,Project Management - Project management,68.08510638297872,67.9245283018868,low-score,1,175.0
+Estimated Number of Approved Claims,51.0,Notification/Correspondence Fees: Generate list of facsimile numbers (one time fee),48.83720930232558,48.0,low-score,2,1500.0
+Processing & Printing Distribution Checks,100.0,Distribution Services: Processing and printing distribution checks (per check),100.0,90.14084507042253,write,2,1.0
+Processing & Issuing Electronic Payments,102.0,Distribution Services: Processing and issuing electronic payments (per payment),100.0,100.0,ambiguous,1,0.25
+Process Checks Returned as Undeliverable,113.0,Distribution Services: Process checks returned as undeliverable (per check),100.0,80.0,write,8,0.25
+Skip-Tracing Return Checks,114.0,Distribution Services: Skip-tracing return checks (per check),100.0,63.1578947368421,write,8,0.75
+All Work on Re-Issuance of Checks,157.0,Distribution Services - All work on reissuance of checks,76.92307692307692,49.18032786885246,low-score,1,85.0
+Print & Mail Re-Issues - Checks,116.0,Distribution Services: Print and mail reissues - checks (per check),77.41935483870968,48.0,low-score,1,2.5
+Recording and Reconciling Settlement Fund Activity,161.0,Tax Reporting - Recording and reconciling SFA activity during the year,78.94736842105263,62.62626262626262,low-score,1,100.0
+Preparation of Settlement Fund Tax Return,119.0,Tax Reporting: Preparation of Settlement Fund tax return (per year),100.0,52.5,write,1,2000.0
+Scanning Set-Up Charges,125.0,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),100.0,66.66666666666666,write,1,200.0
+Scanning / Images of Documents,124.0,Mail Handling Scanning & Data/Image Storing: Scanning/images of documents (per scan),100.0,69.56521739130434,write,1,0.1
+Mail Handling Charges,125.0,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),100.0,66.66666666666666,write,1,0.1
+PO Box Fee,128.0,Mail Handling Scanning & Data/Image Storing: PO Box Fee (one time fee),100.0,47.61904761904762,write,9,50.0
+Data / Image Storage - Including Electronic Claims Received,126.0,Mail Handling Scanning & Data/Image Storing: Data/image storage (per month),60.95238095238095,60.0,low-score,9,100.0
+Technology Charge,127.0,Mail Handling Scanning & Data/Image Storing: Technology charge (per month),100.0,52.17391304347826,write,9,100.0
+Senior Director,164.0,Project Management - Senior Director,100.0,50.0,write,5,250.0
+Project Management - Blended Rates,165.0,Project Management - Project management,100.0,85.71428571428571,write,4,150.0
+Staff - Blended Rates,143.0,Media Campaign - Kroll Media Staff,55.55555555555556,51.16279069767442,low-score,8,85.0
+Clerical or Data Entry - Blended Rates,167.0,Project Management - Clerical/data entry,73.07692307692308,50.54945054945055,low-score,2,50.0
+Technical Consulting - Blended Rates,168.0,Project Management - Technical consulting,74.07407407407408,48.57142857142857,low-score,1,140.0
+Postage - Notice (Postcard),36.0,Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),66.66666666666666,47.05882352941177,low-score,1,0.406
+Postage - Letters,93.0,Process Claim Forms Deficiencies and Rejections: Send form deficiency & rejection letters (per letter),63.63636363636363,63.63636363636363,low-score,1,0.73
+Postage - Distribution (Letter),115.0,Distribution Services: Reminder letters to claimants (per letter),82.6086956521739,72.72727272727272,low-score,4,0.593
+Prepare CAFA Notice to State & Federal AG,5.0,Case Setup: State Record Charges (per record),56.41025641025641,45.833333333333336,low-score,1,2500.0
+Postage - CAFA,5.0,Case Setup: State Record Charges (per record),53.333333333333336,50.0,low-score,5,14.0
+Print Reminder Notice [Standard Postcard (Single)],20.0,Notification/Correspondence Fees: Print/address notice packet (per notice),100.0,100.0,ambiguous,1,0.05
+Process Undeliverable Reminder Notices,,,,,skipped(empty-key),5,0.25
+Postage - Notice (Postcard),36.0,Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),66.66666666666666,47.05882352941177,low-score,1,0.406
+Processing & Issuing Single-Postcard Voucher,102.0,Distribution Services: Processing and issuing electronic payments (per payment),67.9245283018868,67.9245283018868,low-score,2,0.5
+Generate Email Address List,,,,,skipped(empty-key),1,500.0
+Distribution Email List Cleanse and Hygiene,99.0,Distribution Services: Generate distribution list (one time fee),100.0,100.0,ambiguous,1,350.0
+Emailing of Non-Cash Vouchers,110.0,Distribution Services:  Emailing of non-cash payments (per email),79.06976744186046,50.0,low-score,1,0.05
+Postage - Distribution (Postcard),108.0,Distribution Services: Generate email address list (one time),72.72727272727272,72.72727272727272,low-score,2,0.406
