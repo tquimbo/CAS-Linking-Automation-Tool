@@ -1,0 +1,64 @@
+PDF_Item,Excel_Item,Excel_Row,Match_Score,Wrote_Rate(C),Wrote_Qty(D),Existing_Rate(C)_after,Existing_Qty(D)_after
+Develop Class List and Import (assumes one data file),Case Setup: Develop class list and import (one time fee),20,80.76923076923077,True,True,2000.0,1.0
+"Set Up, Format and Proof the Notice & Claim Form",Notification/Correspondence Fees - Set up format and proof the notice & claim form,137,100.0,True,True,150.0,6.0
+Generate Email Address List,Notification/Correspondence Fees: Generate email address list (one time fee),42,100.0,True,True,500.0,1.0
+Email List Cleanse and Hygiene,Notification/Correspondence Fees: Email list cleanse and hygiene (one time),43,100.0,True,True,2250.0,1.0
+Prepare & Release Email Campaign,Notification/Correspondence Fees: Prepare and Release initial email campaign 1,45,100.0,True,True,0.005,1613700.0
+Submit File for NCOA,Notification/Correspondence Fees: Submit file for NCOA (one time fee),21,100.0,True,True,0.005,121188.0
+Print/Address Notice Packet [Standard Postcard (Single)],Notification/Correspondence Fees: Print/address notice packet (per notice),24,100.0,True,True,0.05,121188.0
+Process Returned Notices 8%,Notification/Correspondence Fees: Process returned notices (per notice),29,96.0,True,True,0.15,9695.0
+Advanced Address Search,Notification/Correspondence Fees: Advanced address search (per trace),30,100.0,True,True,0.15,9695.0
+Re-Mail Notices 60%,Notification/Correspondence Fees: Re-mail notices (per notice),32,90.9090909090909,True,True,0.25,5817.0
+Generate Supplemental List of Applicable Email Addresses,Notification/Correspondence Fees: Generate supplemental list of email addresses (one time fee),49,89.10891089108911,True,True,450.0,1.0
+Prepare & Release Reminder Email Campaign 98.5%,Notification/Correspondence Fees: Prepare and Release initial email campaign 1,45,82.92682926829268,False,False,0.005,1613700.0
+Receive and Respond to Requests for Notice,Notification/Correspondence Fees: Receive and respond to notice requests (per notice),35,95.0,True,True,2.0,36.0
+Form Letter Correspondence,Notification/Correspondence Fees: Form letter correspondence (per letter),36,100.0,True,True,5.0,54.0
+Email Correspondence,Notification/Correspondence Fees: Print/address - Email address searches (per record),33,100.0,True,True,2.5,181.0
+Processing Change of Address Requests,Notification/Correspondence Fees: Processing change of address requests (per request),38,100.0,True,True,2.0,4.0
+Set-Up Fee for Dedicated Website - Online Filing Capability,Website: Website setup (one time fee),58,59.45945945945946,True,True,3500.0,1.0
+Monthly Hosting,Website: Monthly hosting (per month),59,100.0,True,True,125.0,9.0
+Modifications to Post-Production Website,Website - Modifications to post-production website,141,100.0,True,True,150.0,5.0
+IVR Design & Setup,Contact Center: Call center IVR design and setup (one time fee),61,100.0,True,True,1000.0,1.0
+IVR Operating System (per minute),Contact Center: IVR operating system (per minute),62,100.0,True,True,0.15,10830.0
+Operator Training,Contact Center: Operator training (one time fee),64,100.0,True,True,500.0,1.0
+Live Operator Minutes,Contact Center: Live operator minutes (per minute),65,100.0,True,True,0.95,903.0
+Review & Process Opt-Out Forms Received,Process Opt-outs and Objections - Review and process opt-out forms received/Logging,148,100.0,True,True,75.0,3.0
+Online Opt-In or Claim Forms,Process Claim Forms Deficiencies and Rejections: Online opt-in or claim forms (per form),81,100.0,True,True,0.27,21443.0
+Opt-In or Claim Forms,Process Claim Forms Deficiencies and Rejections: Opt-in or claim forms (per form),72,100.0,True,True,2.95,217.0
+Send Form Deficiency & Rejection Letters,Process Claim Forms Deficiencies and Rejections: Send form deficiency & rejection letters (per letter),97,100.0,True,True,3.0,1083.0
+Claimant Responses to Deficient Claim Form,Process Claim Forms Deficiencies and Rejections: Claimant responses to deficient claim form (per response),100,100.0,True,True,3.0,650.0
+Review of Claims Filed - Blended Rate,Dispute Resolutions/Validation of Claims - Review of claims filed,155,77.19298245614036,True,True,100.0,15.0
+Top Claim Review (Sr. Project Manager),Project Management - Staff,170,61.016949152542374,True,True,175.0,10.0
+Generate Distribution List,Distribution Services: Generate distribution list (one time fee),103,100.0,True,True,1500.0,1.0
+Processing & Printing Distribution Checks 10%,Distribution Services: Processing and printing distribution checks (per check),104,96.62921348314607,True,True,1.0,2166.0
+Processing & Issuing Electronic Payments 90%,Distribution Services: Processing and issuing electronic payments (per payment),106,96.55172413793103,True,True,0.25,19494.0
+Process Checks Returned as Undeliverable,Distribution Services: Process checks returned as undeliverable (per check),117,100.0,True,True,0.25,87.0
+Skip-Tracing Return Checks,Distribution Services: Skip-tracing return checks (per check),118,100.0,True,True,0.75,87.0
+All Work on Re-Issuance of Checks,Distribution Services - All work on reissuance of checks,161,77.77777777777777,True,True,85.0,15.0
+Print & Mail Re-Issues - Checks,Distribution Services: Print and mail reissues - checks (per check),120,80.76923076923077,True,True,2.5,1902.0
+Recording and Reconciling Settlement Fund Activity,Tax Reporting - Recording and reconciling SFA activity during the year,165,80.95238095238095,True,True,100.0,15.0
+Preparation of Settlement Fund Tax Return 1 Per Annum,Tax Reporting: Preparation of Settlement Fund tax return (per year),123,91.83673469387755,True,False,2000.0,
+Scanning Set-Up Charges,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),129,82.05128205128204,True,True,200.0,1.0
+Scanning / Images of Documents,Mail Handling Scanning & Data/Image Storing: Scanning/images of documents (per scan),128,100.0,True,True,0.1,11570.0
+Mail Handling Charges,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),129,100.0,False,False,200.0,1.0
+PO Box Fee,Mail Handling Scanning & Data/Image Storing: PO Box Fee (one time fee),132,100.0,True,True,50.0,9.0
+Data / Image Storage - Including Electronic Claims Received,Mail Handling Scanning & Data/Image Storing: Data/image storage (per month),130,57.6271186440678,True,True,100.0,9.0
+Technology Charge,Mail Handling Scanning & Data/Image Storing: Technology charge (per month),131,100.0,True,True,100.0,9.0
+Senior Director,Project Management - Senior Director,168,100.0,True,True,250.0,5.0
+Project Management - Blended Rates,Project Management - Project management,169,100.0,True,True,150.0,45.0
+Staff - Blended Rates,Project Management - Staff,170,51.16279069767442,False,False,175.0,10.0
+Clerical or Data Entry - Blended Rates,Project Management - Clerical/data entry,171,69.0909090909091,True,True,50.0,25.0
+Technical Consulting - Blended Rates,Project Management - Technical consulting,172,74.07407407407408,True,True,140.0,15.0
+Postage - Notice (Postcard),Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),40,51.61290322580645,True,True,0.406,127005.0
+Postage - Letters,Process Claim Forms Deficiencies and Rejections: Send form deficiency & rejection letters (per letter),97,63.63636363636363,False,False,3.0,1083.0
+Postage - Distribution (Letter),Distribution Services: Reminder letters to claimants (per letter),119,82.6086956521739,True,True,0.593,4068.0
+Prepare CAFA Notice to State & Federal AG,Notification/Correspondence Fees: Prepare CAFA notice (per mailing),28,61.6822429906542,True,True,2500.0,1.0
+Postage - CAFA,Notification/Correspondence Fees: Prepare CAFA notice (per mailing),28,50.0,False,False,2500.0,1.0
+Print Reminder Notice [Standard Postcard (Single)] 99%,Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),40,73.6842105263158,False,False,0.406,127005.0
+Process Undeliverable Reminder Notices 5%,Notification/Correspondence Fees: Process undeliverable reminder notices (per piece),41,97.43589743589743,True,True,0.25,5969.0
+Postage - Notice (Postcard),Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),40,51.61290322580645,False,False,0.406,127005.0
+Processing & Issuing Single-Postcard Voucher,Distribution Services: Processing and issuing electronic payments (per payment),106,64.70588235294117,False,False,0.25,19494.0
+Generate Email Address List,Notification/Correspondence Fees: Generate email address list (one time fee),42,100.0,False,False,500.0,1.0
+Distribution Email List Cleanse and Hygiene,Distribution Services: Distribution email list cleanse and hygiene (one time),113,100.0,True,True,350.0,1.0
+Emailing of Non-Cash Vouchers,Distribution Services:  Emailing of non-cash payments (per email),114,81.63265306122449,True,True,0.05,19494.0
+Postage - Distribution (Postcard),Distribution Services - Coordinating Distribution,162,60.317460317460316,True,True,0.406,2166.0

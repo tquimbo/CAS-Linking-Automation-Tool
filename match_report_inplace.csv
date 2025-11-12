@@ -1,0 +1,64 @@
+PDF_Item,Excel_Item,Score,Second,Delta,Qty,Rate,Action
+Develop Class List and Import (assumes one data file),Case Setup: Develop class list and import (per record),84.05797101449275,84.05797101449275,0.0,1.0,2000.0,ambiguous
+"Set Up, Format and Proof the Notice & Claim Form",Notification/Correspondence Fees - Set up format and proof the notice & claim form,100.0,54.054054054054056,45.945945945945944,6.0,150.0,write
+Generate Email Address List,Notification/Correspondence Fees: Generate email address list (one time fee),100.0,100.0,0.0,1.0,500.0,ambiguous
+Email List Cleanse and Hygiene,Notification/Correspondence Fees: Email list cleanse and hygiene (one time),100.0,100.0,0.0,1.0,2250.0,ambiguous
+Prepare & Release Email Campaign,Notification/Correspondence Fees: Prepare and Release initial email campaign 1,100.0,100.0,0.0,13700.0,0.005,ambiguous
+Submit File for NCOA,Notification/Correspondence Fees: Submit file for NCOA (one time fee),100.0,100.0,0.0,21188.0,0.005,ambiguous
+Print/Address Notice Packet [Standard Postcard (Single)],Notification/Correspondence Fees: Print/address notice packet (per notice),100.0,100.0,0.0,21188.0,0.05,ambiguous
+Process Returned Notices,Notification/Correspondence Fees: Process returned notices (per notice),100.0,100.0,0.0,695.0,0.15,ambiguous
+Advanced Address Search,Notification/Correspondence Fees: Advanced address search (per trace),100.0,75.67567567567568,24.324324324324323,695.0,0.15,write
+Re-Mail Notices,Notification/Correspondence Fees: Re-mail notices (per notice),100.0,72.72727272727272,27.27272727272728,817.0,0.25,write
+Generate Supplemental List of Applicable Email Addresses,Notification/Correspondence Fees: Generate supplemental list of email addresses (one time fee),87.64044943820224,63.46153846153846,24.17891097666378,1.0,450.0,ambiguous
+Prepare & Release Reminder Email Campaign,Notification/Correspondence Fees: Prepare and Release initial email campaign 1,86.15384615384616,86.15384615384616,0.0,4495.0,0.005,ambiguous
+Receive and Respond to Requests for Notice,Notification/Correspondence Fees: Receive and respond to notice requests (per notice),93.93939393939394,59.09090909090909,34.848484848484844,6.0,2.0,write
+Form Letter Correspondence,Notification/Correspondence Fees: Submit file for NCOA (one time fee),100.0,100.0,0.0,4.0,5.0,ambiguous
+Email Correspondence,Notification/Correspondence Fees: Submit file for NCOA (one time fee),100.0,100.0,0.0,81.0,2.5,ambiguous
+Processing Change of Address Requests,Notification/Correspondence Fees: Processing change of address requests (per request),100.0,60.0,40.0,4.0,2.0,write
+Set-Up Fee for Dedicated Website - Online Filing Capability,Mail Handling Scanning & Data/Image Storing: Scanning set-up (one time fee),53.608247422680414,48.54368932038835,5.064558102292061,1.0,3500.0,ambiguous
+Monthly Hosting,Website: Monthly hosting (per month),100.0,63.63636363636363,36.36363636363637,9.0,125.0,write
+Modifications to Post-Production Website,Website - Modifications to post-production website,100.0,49.18032786885246,50.81967213114754,5.0,150.0,write
+IVR Design & Setup,Website: Website setup (one time fee),100.0,100.0,0.0,1.0,1000.0,ambiguous
+IVR Operating System (per minute),Contact Center: IVR operating system (per minute),100.0,100.0,0.0,830.0,0.15,ambiguous
+Operator Training,Contact Center: Operator training (one time fee),100.0,100.0,0.0,1.0,500.0,ambiguous
+Live Operator Minutes,Contact Center: Live operator minutes (per minute),100.0,100.0,0.0,3.0,0.95,ambiguous
+Review & Process Opt-Out Forms Received,Process Opt-outs and Objections - Review and process opt-out forms received/Logging,100.0,86.11111111111111,13.888888888888886,3.0,75.0,write
+Online Opt-In or Claim Forms,Process Claim Forms Deficiencies and Rejections: Online opt-in or claim forms (per form),100.0,100.0,0.0,1443.0,0.27,ambiguous
+Opt-In or Claim Forms,Process Claim Forms Deficiencies and Rejections: Opt-in or claim forms (per form),100.0,100.0,0.0,17.0,2.95,ambiguous
+Send Form Deficiency & Rejection Letters,Process Claim Forms Deficiencies and Rejections: Send form deficiency & rejection letters (per letter),100.0,79.16666666666667,20.83333333333333,83.0,3.0,write
+Claimant Responses to Deficient Claim Form,Process Claim Forms Deficiencies and Rejections: Claimant responses to deficient claim form (per response),100.0,80.76923076923077,19.230769230769226,50.0,3.0,write
+Review of Claims Filed - Blended Rate,Dispute Resolutions/Validation of Claims - Review of claims filed,69.76744186046511,55.55555555555556,14.211886304909555,5.0,100.0,ambiguous
+Top Claim Review (Sr. Project Manager),Project Management - Project management,68.08510638297872,67.9245283018868,0.16057808109192706,0.0,175.0,ambiguous
+Generate Distribution List,Distribution Services: Generate distribution list (one time fee),100.0,100.0,0.0,1.0,1500.0,ambiguous
+Processing & Printing Distribution Checks,Distribution Services: Processing and printing distribution checks (per check),100.0,91.13924050632912,8.860759493670884,166.0,1.0,write
+Processing & Issuing Electronic Payments,Distribution Services: Processing and issuing electronic payments (per payment),100.0,100.0,0.0,9494.0,0.25,ambiguous
+Process Checks Returned as Undeliverable,Distribution Services: Process checks returned as undeliverable (per check),100.0,68.85245901639344,31.14754098360656,7.0,0.25,write
+Skip-Tracing Return Checks,Distribution Services: Skip-tracing return checks (per check),100.0,63.1578947368421,36.8421052631579,7.0,0.75,write
+All Work on Re-Issuance of Checks,Distribution Services - All work on reissuance of checks,77.77777777777777,49.411764705882355,28.366013071895416,5.0,85.0,ambiguous
+Print & Mail Re-Issues - Checks,Distribution Services: Print and mail reissues - checks (per check),80.76923076923077,57.83132530120482,22.937905468025953,902.0,2.5,ambiguous
+Recording and Reconciling Settlement Fund Activity,Tax Reporting - Recording and reconciling SFA activity during the year,80.95238095238095,60.37735849056604,20.57502246181491,5.0,100.0,ambiguous
+Preparation of Settlement Fund Tax Return,Tax Reporting: Preparation of Settlement Fund tax return (per year),100.0,55.55555555555556,44.44444444444444,1.0,2000.0,write
+Scanning Set-Up Charges,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),82.05128205128204,78.94736842105263,3.103913630229414,1.0,200.0,ambiguous
+Scanning / Images of Documents,Mail Handling Scanning & Data/Image Storing: Scanning/images of documents (per scan),100.0,61.53846153846154,38.46153846153846,1570.0,0.1,write
+Mail Handling Charges,Mail Handling Scanning & Data/Image Storing: Mail handling charges (per piece),100.0,76.47058823529412,23.529411764705884,703.0,0.1,write
+PO Box Fee,Mail Handling Scanning & Data/Image Storing: PO Box Fee (one time fee),100.0,28.57142857142857,71.42857142857143,9.0,50.0,write
+Data / Image Storage - Including Electronic Claims Received,Mail Handling Scanning & Data/Image Storing: Data/image storage (per month),59.40594059405941,58.064516129032256,1.3414244650271527,9.0,100.0,ambiguous
+Technology Charge,Mail Handling Scanning & Data/Image Storing: Technology charge (per month),100.0,52.17391304347826,47.82608695652174,9.0,100.0,write
+Senior Director,Project Management - Senior Director,100.0,46.15384615384615,53.84615384615385,5.0,250.0,write
+Project Management - Blended Rates,Project Management - Project management,100.0,85.71428571428571,14.285714285714292,5.0,150.0,write
+Staff - Blended Rates,Project Management - Staff,51.16279069767442,44.44444444444444,6.718346253229974,5.0,85.0,ambiguous
+Clerical or Data Entry - Blended Rates,Project Management - Clerical/data entry,69.0909090909091,48.484848484848484,20.60606060606061,5.0,50.0,ambiguous
+Technical Consulting - Blended Rates,Project Management - Technical consulting,74.07407407407408,48.484848484848484,25.58922558922559,5.0,140.0,ambiguous
+Postage - Notice (Postcard),Website: Monthly hosting (per month),36.36363636363637,33.33333333333333,3.0303030303030383,27005.0,0.406,ambiguous
+Postage - Letters,Website: Monthly hosting (per month),36.36363636363637,33.33333333333333,3.0303030303030383,119.0,0.73,ambiguous
+Postage - Distribution (Letter),Distribution Services: Generate distribution list (one time fee),75.0,75.0,0.0,68.0,0.593,ambiguous
+Prepare CAFA Notice to State & Federal AG,Notification/Correspondence Fees: Prepare CAFA notice (per mailing),59.25925925925926,52.63157894736842,6.627680311890842,1.0,2500.0,ambiguous
+Postage - CAFA,Case Setup: State Record Charges (per record),50.0,50.0,0.0,6.0,14.0,ambiguous
+Print Reminder Notice [Standard Postcard (Single)],Notification/Correspondence Fees: Print reminder letter/postcard (per reminder),100.0,72.72727272727272,27.27272727272728,19370.0,0.05,write
+Process Undeliverable Reminder Notices,Notification/Correspondence Fees: Process undeliverable reminder notices (per piece),100.0,82.35294117647058,17.64705882352942,969.0,0.25,write
+Postage - Notice (Postcard),Website: Monthly hosting (per month),36.36363636363637,33.33333333333333,3.0303030303030383,19370.0,0.406,ambiguous
+Processing & Issuing Single-Postcard Voucher,Distribution Services: Processing and issuing electronic payments (per payment),74.57627118644068,74.57627118644068,0.0,166.0,0.5,ambiguous
+Generate Email Address List,Notification/Correspondence Fees: Generate email address list (one time fee),100.0,100.0,0.0,1.0,500.0,ambiguous
+Distribution Email List Cleanse and Hygiene,Distribution Services: Distribution email list cleanse and hygiene (one time),100.0,78.68852459016394,21.311475409836063,1.0,350.0,write
+Emailing of Non-Cash Vouchers,Distribution Services:  Emailing of non-cash payments (per email),81.63265306122449,55.0,26.632653061224488,9494.0,0.05,ambiguous
+Postage - Distribution (Postcard),Distribution Services: Generate distribution list (one time fee),75.0,75.0,0.0,166.0,0.406,ambiguous
