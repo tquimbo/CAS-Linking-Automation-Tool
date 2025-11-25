@@ -17,7 +17,7 @@
 #             print(text)
 import pdfplumber
 
-with pdfplumber.open("proposal.pdf") as pdf:
+with pdfplumber.open("claim_form.pdf") as pdf:
     for i, page in enumerate(pdf.pages, start=1):
         text = page.extract_text() or ""
         print(f"\n=== PAGE {i} ===\n{text}")

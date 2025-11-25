@@ -1,64 +1,64 @@
 Item,Quantity,Type,Rate,Total_PDF,Diff
 Develop Class List and Import (assumes one data file),1.0,one-time,2000.0,2000.0,0.0
-"Set Up, Format and Proof the Notice & Claim Form",6.0,hours,150.0,900.0,0.0
+"Set Up, Format and Proof the Notice & Claim Form  S",6.0,hours,150.0,900.0,0.0
 Generate Email Address List,1.0,one-time,500.0,500.0,0.0
 Email List Cleanse and Hygiene,1.0,one-time,2250.0,2250.0,0.0
-Prepare & Release Email Campaign,1613700.0,per email,0.005,3069.0,-4999.5
-Submit File for NCOA,121188.0,per record,0.005,606.0,0.06
-Print/Address Notice Packet [Standard Postcard (Single)],121188.0,per notice,0.05,6059.0,-0.4
-Process Returned Notices 8%,9695.0,per notice,0.15,1454.0,-0.25
-Advanced Address Search,9695.0,per trace,0.15,1454.0,-0.25
-Re-Mail Notices 60%,5817.0,per notice,0.25,1454.0,-0.25
-Generate Supplemental List of Applicable Email Addresses,1.0,one-time,450.0,450.0,0.0
-Prepare & Release Reminder Email Campaign 98.5%,604495.0,per email,0.005,3022.0,-0.47
-Receive and Respond to Requests for Notice,36.0,per notice,2.0,72.0,0.0
+"Prepare & Release Email Campaign 1613,700 Per Email S",1613700.0,per email,0.005,3069.0,-4999.5
+"Submit File for NCOA 121,188 Per Record S",121188.0,per record,0.005,606.0,0.06
+"Print/Address Notice Packet [Standard Postcard (Single)] 121,188 Per Notice",121188.0,per notice,0.05,6059.0,-0.4
+"Process Returned Notices 8% 9,695 Per Notice S",9695.0,per notice,0.15,1454.0,-0.25
+"Advanced Address Search 9,695 Per Trace",9695.0,per trace,0.15,1454.0,-0.25
+"Re-Mail Notices 60% 5,817 Per Notice S",5817.0,per notice,0.25,1454.0,-0.25
+Generate Supplemental List of Applicable Email Addresses  S,1.0,one-time,450.0,450.0,0.0
+"Prepare & Release Reminder Email Campaign 98.5% 604,495 Per Email",604495.0,per email,0.005,3022.0,-0.47
+Receive and Respond to Requests for Notice  S,36.0,per notice,2.0,72.0,0.0
 Form Letter Correspondence,54.0,per letter,5.0,270.0,0.0
-Email Correspondence,181.0,per email,2.5,453.0,0.5
-Processing Change of Address Requests,4.0,per request,2.0,8.0,0.0
+Email Correspondence  S,181.0,per email,2.5,453.0,0.5
+Processing Change of Address Requests 4 PerRequest,4.0,,2.0,8.0,0.0
 Set-Up Fee for Dedicated Website - Online Filing Capability,1.0,one-time,3500.0,3500.0,0.0
-Monthly Hosting,9.0,per month,125.0,1125.0,0.0
-Modifications to Post-Production Website,5.0,hours,150.0,750.0,0.0
+Monthly Hosting  S,9.0,per month,125.0,1125.0,0.0
+Modifications to Post-Production Website  S,5.0,hours,150.0,750.0,0.0
 IVR Design & Setup,1.0,one-time,1000.0,1000.0,0.0
-IVR Operating System (per minute),10830.0,per minute,0.15,1625.0,0.5
-Operator Training,1.0,one-time,500.0,500.0,0.0
+"IVR Operating System (per minute) 10,830 Per Minute S",10830.0,per minute,0.15,1625.0,0.5
+Operator Training  S,1.0,one-time,500.0,500.0,0.0
 Live Operator Minutes,903.0,per minute,0.95,857.0,-0.85
-Review & Process Opt-Out Forms Received,3.0,hours,75.0,225.0,0.0
-Online Opt-In or Claim Forms,21443.0,per form,0.27,5790.0,0.39
-Opt-In or Claim Forms,217.0,per form,2.95,640.0,-0.15
-Send Form Deficiency & Rejection Letters,1083.0,per letter,3.0,3249.0,0.0
-Claimant Responses to Deficient Claim Form,650.0,per response,3.0,1950.0,0.0
+Review & Process Opt-Out Forms Received  S,3.0,hours,75.0,225.0,0.0
+"Online Opt-in or Claim Forms 21,443 Per Form S",21443.0,per form,0.27,5790.0,0.39
+Opt-in or Claim Forms  S,217.0,per form,2.95,640.0,-0.15
+"Send Form Deficiency & Rejection Letters 1,083 Per Letter S",1083.0,per letter,3.0,3249.0,0.0
+Claimant Responses to Deficient Claim Form 650 PerResponse,650.0,,3.0,1950.0,0.0
 Review of Claims Filed - Blended Rate,15.0,hours,100.0,1500.0,0.0
-Top Claim Review (Sr. Project Manager),10.0,hours,175.0,1750.0,0.0
+Top Claim Review (Sr. Project Manager)  S,10.0,hours,175.0,1750.0,0.0
 Generate Distribution List,1.0,one-time,1500.0,1500.0,0.0
-Processing & Printing Distribution Checks 10%,2166.0,per check,1.0,2166.0,0.0
-Processing & Issuing Electronic Payments 90%,19494.0,per payment,0.25,4874.0,0.5
-Process Checks Returned as Undeliverable,87.0,per check,0.25,22.0,0.25
+"Processing & Printing Distribution Checks 10% 2,166 Per Check S",2166.0,per check,1.0,2166.0,0.0
+"Processing & Issuing Electronic Payments 90% 19,494 Per Payment",19494.0,per payment,0.25,4874.0,0.5
+Process Checks Returned as Undeliverable  S,87.0,per check,0.25,22.0,0.25
 Skip-Tracing Return Checks,87.0,per check,0.75,65.0,-0.25
-All Work on Re-Issuance of Checks,15.0,hours,85.0,1275.0,0.0
-Print & Mail Re-Issues - Checks,1902.0,per check,2.5,4755.0,0.0
-Recording and Reconciling Settlement Fund Activity,15.0,hours,100.0,1500.0,0.0
-Preparation of Settlement Fund Tax Return 1 Per Annum,,,2000.0,2000.0,2000.0
+All Work on Re-Issuance of Checks  S,15.0,hours,85.0,1275.0,0.0
+"Print & Mail Re-Issues - Checks 1,902 Per Check",1902.0,per check,2.5,4755.0,0.0
+Recording and Reconciling Settlement Fund Activity  S,15.0,hours,100.0,1500.0,0.0
+Preparation of Settlement Fund Tax Return 1 Per Annum,1.0,,2000.0,2000.0,0.0
 Scanning Set-Up Charges,1.0,one-time,200.0,200.0,0.0
-Scanning / Images of Documents,11570.0,per scan,0.1,1157.0,0.0
-Mail Handling Charges,10703.0,per piece,0.1,1070.0,-0.3
+"Scanning / Images of Documents 11,570 Per Scan",11570.0,per scan,0.1,1157.0,0.0
+"Mail Handling Charges 10,703 Per Piece S",10703.0,per piece,0.1,1070.0,-0.3
 PO Box Fee,9.0,per month,50.0,450.0,0.0
-Data / Image Storage - Including Electronic Claims Received,9.0,per month,100.0,900.0,0.0
+Data / Image Storage - Including Electronic Claims Received  S,9.0,per month,100.0,900.0,0.0
 Technology Charge,9.0,per month,100.0,900.0,0.0
 Senior Director,5.0,hours,250.0,1250.0,0.0
-Project Management - Blended Rates,45.0,hours,150.0,6750.0,0.0
+Project Management - Blended Rates  S,45.0,hours,150.0,6750.0,0.0
 Staff - Blended Rates,85.0,hours,85.0,7225.0,0.0
-Clerical or Data Entry - Blended Rates,25.0,hours,50.0,1250.0,0.0
-Technical Consulting - Blended Rates,15.0,hours,140.0,2100.0,0.0
-Postage - Notice (Postcard),127005.0,per piece,0.406,51564.0,-0.03
-Postage - Letters,1119.0,per piece,0.73,817.0,0.13
-Postage - Distribution (Letter),4068.0,per piece,0.593,2412.0,-0.32
+Clerical or Data Entry - Blended Rates  S,25.0,hours,50.0,1250.0,0.0
+Technical Consulting - Blended Rates  S,15.0,hours,140.0,2100.0,0.0
+"Postage - Notice (Postcard) 127,005 Per Piece S",127005.0,per piece,0.406,51564.0,-0.03
+"Postage - Letters 1,119 Per Piece",1119.0,per piece,0.73,817.0,0.13
+"Postage - Distribution (Letter) 4,068 Per Piece S",4068.0,per piece,0.593,2412.0,-0.32
 Prepare CAFA Notice to State & Federal AG,1.0,per mailing,2500.0,2500.0,0.0
 Postage - CAFA,56.0,per piece,14.0,784.0,0.0
-Print Reminder Notice [Standard Postcard (Single)] 99%,119370.0,per notice,0.05,5969.0,0.5
-Process Undeliverable Reminder Notices 5%,5969.0,per notice,0.25,1492.0,-0.25
-Postage - Notice (Postcard),119370.0,per piece,0.406,48464.0,-0.22
-Processing & Issuing Single-Postcard Voucher,2166.0,per payment,0.5,1083.0,0.0
+"Print Reminder Notice [Standard Postcard (Single)] 99% 119,370 Per Notice",119370.0,per notice,0.05,5969.0,0.5
+"Process Undeliverable Reminder Notices 5% 5,969 Per Notice",5969.0,per notice,0.25,1492.0,-0.25
+"Postage - Notice (Postcard) 119,370 Per Piece",119370.0,per piece,0.406,48464.0,-0.22
+"Processing & Issuing Single-Postcard Voucher 2,166 Per Payment",2166.0,per payment,0.5,1083.0,0.0
 Generate Email Address List,1.0,one-time,500.0,500.0,0.0
 Distribution Email List Cleanse and Hygiene,1.0,one-time,350.0,350.0,0.0
-Emailing of Non-Cash Vouchers,19494.0,per email,0.05,975.0,0.3
-Postage - Distribution (Postcard),2166.0,per piece,0.406,879.0,-0.4
+"Emailing of Non-Cash Vouchers 19,494 Per Email",19494.0,per email,0.05,975.0,0.3
+"Postage - Distribution (Postcard) 2,166 Per Piece",2166.0,per piece,0.406,879.0,-0.4

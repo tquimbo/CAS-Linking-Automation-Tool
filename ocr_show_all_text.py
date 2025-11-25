@@ -28,6 +28,7 @@ import pdfplumber
 import pytesseract
 from pathlib import Path
 
+# PDF = "proposal.pdf"
 PDF = "proposal.pdf"
 
 # OCR settings: LSTM, block of text, English
